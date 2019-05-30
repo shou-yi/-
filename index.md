@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 守护天依的第一步！
 
 You can use the [editor on GitHub](https://github.com/shou-yi/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
